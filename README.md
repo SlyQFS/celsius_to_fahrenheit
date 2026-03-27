@@ -4,6 +4,6 @@ based on [book](https://doc.rust-lang.org/book/ch03-05-control-flow.html)
 ---
 ```
 git clone https://github.com/SlyQFS/celsius_to_fahrenheit
-cd rustlator
+cd celsius_to_fahrenheit
 cargo build
 ```
